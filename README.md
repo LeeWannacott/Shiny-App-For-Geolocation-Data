@@ -8,6 +8,3 @@ This Shiny app alows for a .csv to be uploaded and displays data on a Leaflet ma
 
 TODO: 
 Add conditional checkboxes to table to select columns.
-
-Get the seperate function to work with data that has GPS with a delimeter.
-
