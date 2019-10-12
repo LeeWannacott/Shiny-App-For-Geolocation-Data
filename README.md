@@ -6,6 +6,6 @@ This Shiny app alows for a .csv to be uploaded and displays data on a Leaflet ma
 
 
 
-Todo: 
+TODO: 
 Add conditional checkboxes to table to select columns.
 
