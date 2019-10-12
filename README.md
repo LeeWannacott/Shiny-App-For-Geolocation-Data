@@ -2,7 +2,7 @@
 
 https://leewannacott.shinyapps.io/Shiny-App-For-Geolocation-Data/
 
-This Shiny app alows for a .csv to be uploaded and displays data on a Leaflet map. The code needs to be configured for the specific data you are working with (column headers); Currently it is configured to use the Example file. The app could be used to display information on any geolocation data. The example .csv file has been included in the repository. 
+This Shiny app alows for a .csv to be uploaded and displays data on a Leaflet map. The code needs to be configured for the specific data you are working with (column headers); Currently it is configured to use the Example file. The app could be used to display information on any geolocation data. The example .csv file and R code has been included in the repository. 
 
 ```Example visualisation of geolocation data on Leaflet map with icons set to change based on vessel type.```
 ![Screenshot](https://github.com/LeeWannacott/Shiny-App-For-Geolocation-Data/blob/master/Geolocation%20data%20displayed%20in%20leaflet%20map%20image..png)
